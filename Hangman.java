@@ -11,6 +11,8 @@ Button nbt1,nbt2,nbt3,nbt4,nbt5,nbt6,nbt7;
 TextField F1,F2,F3; 
 void fun(){  
 	
+	
+	
 	String arr[]={"hello","friend","college","java","cmd","code","program","codechef","hangman","cricket"};
 	int max=10,min=0;
 
